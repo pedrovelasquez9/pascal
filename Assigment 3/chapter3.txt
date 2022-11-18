@@ -1,0 +1,9 @@
+Number of integers =5
+Number1:      45
+Number2:       7
+Number3:      68
+Number4:       2
+Number5:      34
+================
+Sum:         156
+Average:   31.20
